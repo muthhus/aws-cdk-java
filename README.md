@@ -1,6 +1,6 @@
 # AWS CDK Java Worshop!
 
-This project helps you to automate the infrastructure on AWS using AWS CDK. It uses the Amazon API gateway, Lambda & DynamoDB services.
+This project helps you to automate the infrastructure on AWS using AWS CDK. It configures the Amazon API gateway, Lambda & DynamoDB services.
 
 ## Useful commands
 
